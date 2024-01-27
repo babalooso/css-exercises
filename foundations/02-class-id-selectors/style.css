@@ -1,9 +1,7 @@
-/ * style.css * /
-
-<! -- odd numbers -->
+/* style.css */
 
 .odd {
-    background-color: #F5B9C7;
+    background-color: rgb(250,143,131);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 
 }
