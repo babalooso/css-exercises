@@ -3,7 +3,7 @@ body {
 }
 
 .para,
-.child {
+.text.child {
   color: hsl(0, 0%, 0%);
   font-weight: 800;
 }
